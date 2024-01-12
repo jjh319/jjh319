@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Jang Ji Hun, a Developer 🚀 from Korea.
+
+
+
+
+
+
 
 <!--
 **jjh319/jjh319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
