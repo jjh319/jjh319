@@ -45,7 +45,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://img.shields.io/badge/javascript-green"></code>
 </p>
 
-
+## :bulb: Algorithm
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wkdwlgns319)](https://solved.ac/wkdwlgns319)
 
 
 
