@@ -20,9 +20,9 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/jjh319/handle-path-oz">
+<!--  <a href="https://github.com/jjh319/handle-path-oz">
     <img width="55%" align="right" alt="Jihun's github stats" src="https://github-readme-stats.vercel.app/api?username=jjh319&show_icons=true&hide_border=true" />
-  </a>
+  </a>        -->
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -44,6 +44,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://img.shields.io/badge/Spring%20Boot-green"></code>
   <code><img width="10%" src="https://img.shields.io/badge/javascript-green"></code>
 </p>
+
+
+## :green_book: GitHub Stats
+
+[![flaxinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjh319&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true&title_color=fff&icon_color=9f9f9f&text_color=9f9f9f&bg_color=151515)](https://github.com/jjh319/github-readme-stats)
+
+[![flaxinger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh319&layout=compact&theme=gruvbox&hide_title=true&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/jjh319/github-readme-stats)
+
 
 ## :bulb: Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wkdwlgns319)](https://solved.ac/wkdwlgns319)
