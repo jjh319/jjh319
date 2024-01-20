@@ -56,7 +56,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ## :bulb: Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wkdwlgns319)](https://solved.ac/wkdwlgns319)
 
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle={wkdwlgns319}&theme=warm)](https://solved.ac/wkdwlgns319)
+
 
 
 
