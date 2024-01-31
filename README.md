@@ -7,6 +7,8 @@
 
 &nbsp;
 
+**blog :** https://velog.io/@wkdwlgns319/posts
+
 **Graduation :**
 <p>
   <strong>2023.05 ~ 2023.10 : 그린컴퓨터아카데미 spirng 웹서비스(AWS)과정 이수</strong> <br />
