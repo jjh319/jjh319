@@ -8,6 +8,7 @@
 &nbsp;
 
 **blog :** https://velog.io/@wkdwlgns319/posts
+**portfolio :** https://jjh319.github.io/portfolio/
 
 **Graduation :**
 <p>
