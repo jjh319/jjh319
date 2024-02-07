@@ -7,7 +7,7 @@
 
 &nbsp;
 
-**blog :** https://velog.io/@wkdwlgns319/posts
+**blog :** https://velog.io/@wkdwlgns319/posts <br>
 **portfolio :** https://jjh319.github.io/portfolio/
 
 **Graduation :**
