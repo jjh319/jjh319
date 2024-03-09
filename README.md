@@ -46,6 +46,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://img.shields.io/badge/Naver Cloud-green"></code>
   <code><img width="10%" src="https://img.shields.io/badge/Spring%20Boot-green"></code>
   <code><img width="10%" src="https://img.shields.io/badge/javascript-green"></code>
+  <br />
+  <br />
+  <code><img width="10%" src="https://img.shields.io/badge/Docker-blue"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/Linux-grey"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/jQuery-blue"></code>
 </p>
 
 
