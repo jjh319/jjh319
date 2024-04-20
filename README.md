@@ -53,6 +53,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://img.shields.io/badge/jQuery-blue"></code>
 </p>
 
+## :green_book: REACT STUDY PROJECT
+
+<strong>TODO-APP</strong> :  [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://6623c5e0a81bb9db636552cb--jihun-todo-app.netlify.app/)
+
+<br>
+<br>
 
 ## :green_book: GitHub Stats
 
