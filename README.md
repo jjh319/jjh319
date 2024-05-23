@@ -8,7 +8,7 @@
 &nbsp;
 
 **blog :** https://velog.io/@wkdwlgns319/posts <br>
-**portfolio :** https://jjh319.github.io/portfolio/
+
 
 **Graduation :**
 <p>
@@ -17,46 +17,24 @@
 </p>
 &nbsp;
 
-**My Stack :** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-<!--  <a href="https://github.com/jjh319/handle-path-oz">
-    <img width="55%" align="right" alt="Jihun's github stats" src="https://github-readme-stats.vercel.app/api?username=jjh319&show_icons=true&hide_border=true" />
-  </a>        -->
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
-  <br />
-  <code><img width="10%" src="https://img.shields.io/badge/Naver Cloud-green"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/Spring%20Boot-green"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/javascript-green"></code>
-  <br />
-  <br />
-  <code><img width="10%" src="https://img.shields.io/badge/Docker-blue"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/Linux-grey"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/jQuery-blue"></code>
-</p>
-
-## :green_book: REACT STUDY PROJECT
+## :green_book: FRONT-END STUDY PROJECT
 
 <strong>TODO-APP</strong> :  [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://6623c5e0a81bb9db636552cb--jihun-todo-app.netlify.app/) <br><br>
-<strong>CAT-JJAL-MAKER-APP</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://jjh319.github.io/REACT-CAT-JJAL-MAKER/)
+<strong>CAT-JJAL-MAKER-APP</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://jjh319.github.io/REACT-CAT-JJAL-MAKER/) <br><br>
+<strong>YT-MUSIC-CLONE-APP</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://yt-music-clone-pi.vercel.app/)  <br><br>
+<strong>LEARN-WEBPACK</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://github.com/jjh319/LearnWebPack)  <br><br>
+<strong>LEARN-TYPESCRIPT</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://github.com/jjh319/Learn-TypeScript)  <br><br>
+<strong>HOMEPAGE-EX</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://jjh319.github.io/ex/)  <br><br>
+
+<br>
+
+## :green_book: BACK-END STUDY PROJECT
+
+<strong>PORTFOLIO</strong> :   <a href="https://jjh319.github.io/portfolio/"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  </a> <br><br>
+<strong>WEB-MINI-PROJECT</strong> :   <a href="https://github.com/jjh319/bitCampWeb/tree/main/projectMVC22"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  </a> <br><br>
+<strong>JAVA-MINITARO</strong> :   <a href="https://github.com/jjh319/taro"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  </a> <br><br>
 
 <br>
 
