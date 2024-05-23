@@ -21,9 +21,9 @@
 
 ## :green_book: FRONT-END STUDY PROJECT
 
-<strong>TODO-APP</strong> :  [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://6623c5e0a81bb9db636552cb--jihun-todo-app.netlify.app/) <br><br>
-<strong>CAT-JJAL-MAKER-APP</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://jjh319.github.io/REACT-CAT-JJAL-MAKER/) <br><br>
 <strong>YT-MUSIC-CLONE-APP</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://yt-music-clone-pi.vercel.app/)  <br><br>
+<strong>CAT-JJAL-MAKER-APP</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://jjh319.github.io/REACT-CAT-JJAL-MAKER/) <br><br>
+<strong>TODO-APP</strong> :  [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://6623c5e0a81bb9db636552cb--jihun-todo-app.netlify.app/) <br><br>
 <strong>LEARN-WEBPACK</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://github.com/jjh319/LearnWebPack)  <br><br>
 <strong>LEARN-TYPESCRIPT</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://github.com/jjh319/Learn-TypeScript)  <br><br>
 <strong>HOMEPAGE-EX</strong> : [![Netlify Status](https://api.netlify.com/api/v1/badges/89590c9c-588d-438c-bfce-59b977868f0b/deploy-status)](https://jjh319.github.io/ex/)  <br><br>
