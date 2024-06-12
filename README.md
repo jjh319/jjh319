@@ -46,8 +46,7 @@
 [![flaxinger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh319&layout=compact&theme=gruvbox&hide_title=true&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/jjh319/github-readme-stats)
 
 
-## :bulb: Algorithm
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wkdwlgns319)](https://solved.ac/wkdwlgns319)
+
 
 
 
